@@ -15,6 +15,10 @@ format: html
 editor: visual
 bibliography: ref/ref.bib
 csl: https://www.zotero.org/styles/associacao-brasileira-de-normas-tecnicas
+code-links:
+    - text: Repositório
+      icon: github
+      href: https://github.com/joelschutz/quarto-apresentacao
 ---
 
 ## Introdução
