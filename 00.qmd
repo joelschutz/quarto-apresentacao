@@ -1,0 +1,22 @@
+---
+title: "Automatos Celulares"
+date: 2008-02-29
+author:
+  - name: Joel Siva Schutz
+    id: JS
+    orcid: 0009-0008-2602-3346
+    email: joel.schutz@ufrgs.br
+    affiliation: 
+      - name: UFRGS
+        city: Tramandaí
+        state: RS
+        url: www.ufrgs.br
+format: html
+editor: visual
+bibliography: ref/ref.bib
+csl: https://www.zotero.org/styles/associacao-brasileira-de-normas-tecnicas
+---
+
+## Introdução
+
+Os primeiro celular automata ... [@alves2012, p. 25].
