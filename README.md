@@ -1,7 +1,7 @@
 # Exemplo Quarto ABNT
 Este repositório contém uma simples artigo, contendo bibliografia, com o objetivo de publicação sobre o tema dos Sistemas Complexos.
 
-Disponível no [link](https://joelschutz.quarto.pub/quarto-apresentacao/)
+Disponível na [versão online](https://joelschutz.quarto.pub/quarto-apresentacao/)
 
 ## Material
 Foram seecionados os seguintes materiais:
