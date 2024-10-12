@@ -6,3 +6,7 @@
 *.pdf
 *.quarto_ipynb
 *.Rproj
+.Rproj.user
+_publish.yml
+
+/.quarto/
