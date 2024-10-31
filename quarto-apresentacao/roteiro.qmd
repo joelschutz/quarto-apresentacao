@@ -1,0 +1,85 @@
+---
+title: "Roteiro - Software Quarto"
+author:
+  - name: Joel Siva Schutz
+    id: JS
+    orcid: 0009-0008-2602-3346
+    email: joel.schutz@ufrgs.br
+    affiliation: 
+      - name: UFRGS
+        city: Tramandaí
+        state: RS
+        url: https://www.ufrgs.br
+format: 
+  pdf: default
+  html: default
+editor: visual
+---
+
+## Preparação
+
+Foram selecionados os seguintes materiais para a demonstração, você pode acessa-los para acompanhar a aula:
+
+-   Artigos
+    -   [https://link.springer.com/chapter/10.1007/3-540-45830-1_3](https://link.springer.com/chapter/10.1007/3-540-45830-1_3)
+    -   [https://www.sciencedirect.com/science/article/pii/S0169204613000042](https://www.sciencedirect.com/science/article/pii/S0169204613000042)
+    -   [https://www.tandfonline.com/doi/full/10.1080/10095020.2022.2043730](https://www.tandfonline.com/doi/full/10.1080/10095020.2022.2043730)
+-   Livros
+    -   [https://rexlab.ufsc.br/wp-content/uploads/2020/03/TeoriaGeraldeSistemas_Livro-1.pdf](https://rexlab.ufsc.br/wp-content/uploads/2020/03/TeoriaGeraldeSistemas_Livro-1.pdf)
+    -   [https://edisciplinas.usp.br/pluginfile.php/5568238/mod_resource/content/1/Ludwig%20von%20Bertalanffy%20-%20Teoria%20Geral%20dos%20Sistemas-Editora%20Vozes%20(2010)%20(2).pdf](https://edisciplinas.usp.br/pluginfile.php/5568238/mod_resource/content/1/Ludwig%20von%20Bertalanffy%20-%20Teoria%20Geral%20dos%20Sistemas-Editora%20Vozes%20(2010)%20(2).pdf)
+-   Apresentações
+    -   [https://www.slideshare.net/slideshow/teoria-geral-dos-sistemaspdf/252706854](https://www.slideshare.net/slideshow/teoria-geral-dos-sistemaspdf/252706854)
+
+Agora confira os softwares que vão ser utilizados
+
+## Zotero
+
+Baixe o programa pelo [Site Oficial](https://www.zotero.org/) 
+
+Para organizar as nossas referencias e produzir nossos artigos utilizaremos o software Zotero. Este é um programa de software livre e que é utilizado por pesquisadores do mundo todo.
+
+-   Adicionar material via ISBN e DOI
+-   Selecionar material
+-   Exportar Bibliografia
+    -   Salvar como ref
+
+## RStudio
+
+Baixe o programa pelo [Site Oficial](https://posit.co/download/rstudio-desktop/) 
+
+Vamos preparar um projeto para produzir nosso artigo com todo o material que precisamos, para isso utilizaremos um editor de texto que irá nos auxiliar em todas as etapas desse processo. RStudio é um software gratuito e que reune várias ferramentas que podemos utilizar, é hoje o editor mais utilizado em trabalhos de estatistica e pesquisa quantitativa.
+
+-   Criar projeto
+-   Clonar repositorio(via zip)
+    -   https://github.com/joelschutz/quarto-apresentacao
+-   Preencher arquivos
+-   Editar Arquivos
+    -   https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open
+-   Citação de artigos
+-   Inserção de Imagens
+-   Construção de tabelas
+
+## Quarto
+
+Baixe o programa pelo [Site Oficial](https://quarto.org/)
+
+Vamos utilizar o Quarto para visualizar e publicar nossos artigos. Este também é um sotware livre e permite produzir diversas publicações online e para impressão. É uma ferramenta poderosa para a divulgação científica, mas também oferece soluções úteis para profissionais liberais também.
+
+-   Formatos de publicação
+    -   Manuscrito
+    -   Livro
+    -   Site
+-   Publicação\~ online
+    -   https://quartopub.com/
+    
+## Explore a Galeria
+
+Caso tenha instalado todos os programas descritos anteriormente, seu ambiente já deve estar pronto para aprender a usar eles. Mas antes alguns links úteis para conferir antes da aula:
+
+- [Arquivos](https://github.com/joelschutz/quarto-apresentacao) que serão utilizados na apresentação
+- [Apresentação](https://joelschutz.quarto.pub/minicurso-quarto-cobicet/) do software feita pelo autor
+- Não se esqueça de conferir a [Galeria](https://quarto.org/docs/gallery/) com diversos exemplos de aplicação do Quarto em publicações reais
+
+## Boa sorte
+
+> A jornada pode ser longa e confusa as vezes, mas é como ela é.

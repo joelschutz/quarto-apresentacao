@@ -10,8 +10,9 @@ author:
       - name: UFRGS
         city: Tramandaí
         state: RS
-        url: www.ufrgs.br
-format: html
+        url: https://www.ufrgs.br
+format: 
+  html: default
 editor: visual
 bibliography: ref/ref.bib
 csl: https://www.zotero.org/styles/associacao-brasileira-de-normas-tecnicas
@@ -23,4 +24,4 @@ code-links:
 
 ## Introdução
 
-Os primeiro celular automata ... [@alves2012, p. 25].
+O autor diz [@alves2012, p. 32]
